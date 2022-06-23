@@ -1,10 +1,3 @@
-- 👋 Привет, я MrBoomDev!
-- 👀 Заинтерисован в создании игр, сайтов и ПО
-- 🌱 В данный момент я учу язык Java
-- 💞️ Не плохо было бы устроить коллаб
-- 📫 Мое портфолио https://mrboomdeveloper.github.io/
+Меня зовут Денис и мне нравиться играть в мультиплееры. А в качестве хобби я создаю свои игры для мобильных устройств. Также я люблю в свободное время рисовать различные сцены с моим персонажем (MrBoom). А нравится рисование своими просторами возможностей, ведь в одной картине можно рассказать от эмоций автора до целой захватывающей истории. А порой данное занятие дает мне идеи для новых интересных проектов. 
 
-<!---
-MrBoomDeveloper/MrBoomDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Мое портфолио https://mrboomdeveloper.github.io
